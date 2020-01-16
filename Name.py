@@ -1,0 +1,10 @@
+first = 'Jhon'
+last = 'Simith'
+message = first + ' [' + last + '] is a coder'
+print(message)
+
+first = 'Jhon'
+last = 'Simith'
+message = first + ' [' + last + '] is a coder'
+msg = f'{first} [{last}] is a coder'
+print(msg)
